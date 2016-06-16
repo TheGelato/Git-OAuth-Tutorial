@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/TheGelato/Git-OAuth-Tutorial/issues"
   },
-  "homepage": "https://github.com/TheGelato/Git-OAuth-Tutorial#readme"
+  "homepage": "https://github.com/TheGelato/Git-OAuth-Tutorial#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0"
+  }
 }
